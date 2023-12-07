@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    width: 0;
+}
+.doc-img{
+    position: relative;
+    
+}
+.doc-img img{
+    background-color: #1CA39C;
+    opacity: 52%;
+}
